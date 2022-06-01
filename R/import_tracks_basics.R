@@ -1,3 +1,5 @@
+# NOTA: volver a analizar los genes con su valor P menor a 0.05
+
 library(Gviz)
 library(rtracklayer)
 library(trackViewer)
